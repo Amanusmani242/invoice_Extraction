@@ -1,0 +1,44 @@
+{
+  "invoice": {
+    "client_name": "Smith, Kirby and Kennedy",
+    "client_address": "8209 Hannah Brooks Suite 253, Lake Michaeltown, TX 60189",
+    "seller_name": "Martinez-Downs",
+    "seller_address": "Williams Fort, West Sabrina, DE 53879",
+    "invoice_number": "49369450",
+    "invoice_date": "09/14/2021",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Self-enabling holistic capability",
+      "quantity": "4",
+      "total_price": "$40.40"
+    },
+    {
+      "description": "De-engineered maximized framework",
+      "quantity": "5",
+      "total_price": "$232.05"
+    },
+    {
+      "description": "Fully-configurable 24hour alliance",
+      "quantity": "2",
+      "total_price": "$96.26"
+    },
+    {
+      "description": "Phased context-sensitive collaboration",
+      "quantity": "1",
+      "total_price": "$37.51"
+    }
+  ],
+  "subtotal": {
+    "tax": "$36.56",
+    "discount": "",
+    "total": "$442.78"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "National Credit Union",
+    "account_number": "GB48PIBU28364246259358",
+    "payment_method": "Bank Transfer"
+  }
+}

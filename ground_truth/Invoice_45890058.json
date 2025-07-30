@@ -1,0 +1,31 @@
+{
+    "invoice": {
+      "client_name": "Morales Group",
+      "client_address": "556 John Heights, New Scottbury, ND 42369",
+      "seller_name": "Graves-Fleming",
+      "seller_address": "71824 Lamb Lodge Suite 098, New Kimberly, OK 98836",
+      "invoice_number": "45890058",
+      "invoice_date": "08/07/2020",
+      "due_date": ""
+    },
+    "items": [
+      { "description": "Open-source heuristic forecast", "quantity": "1", "total_price": "19.99" },
+      { "description": "Centralized multimedia definition", "quantity": "3", "total_price": "50.04" },
+      { "description": "Enterprise-wide bandwidth-monitored extr", "quantity": "4", "total_price": "85.16" },
+      { "description": "Customizable real-time contingency", "quantity": "4", "total_price": "94.20" },
+      { "description": "Distributed discrete access", "quantity": "5", "total_price": "212.85" },
+      { "description": "Profound solution-oriented superstructur", "quantity": "3", "total_price": "79.53" }
+    ],
+    "subtotal": {
+      "tax": "48.76",
+      "discount": "",
+      "total": "$590.53"
+    },
+    "payment_instructions": {
+      "due_date": "",
+      "bank_name": "National Credit Union",
+      "account_number": "GB48PIBU20217931151247",
+      "payment_method": "Bank Transfer"
+    }
+  }
+  

@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "Rios, Oneill and Rowe",
+    "client_address": "3571 Tina Trafficway\nBuckleyland, LA 97688",
+    "seller_name": "Palmer Ltd",
+    "seller_address": "9790 Bauer Hills Apt. 146\nSouth Patriciation, SD 32497",
+    "invoice_number": "19471831",
+    "invoice_date": "04/09/2014",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "15\"x15\" White Decorative Coffee Table Top Lápis Lazuli Marquetery Patio Décor",
+      "quantity": "3,00",
+      "total_price": "2131,04"
+    },
+    {
+      "description": "4'x2' Marble Dining Table Top Pietra Dura Birds Inlay Art Furniture Decors B444",
+      "quantity": "5,00",
+      "total_price": "10120,55"
+    },
+    {
+      "description": "60 Inches Marble Dinning Table Top Hand Inlaid Garden Table with Gemstones",
+      "quantity": "5,00",
+      "total_price": "32494,00"
+    }
+  ],
+  "subtotal": {
+    "tax": "4 067,78",
+    "discount": "",
+    "total": "44 745,59"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB05YUTG50853913677557",
+    "payment_method": ""
+  }
+}

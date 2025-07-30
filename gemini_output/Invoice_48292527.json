@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "Flores-Hull",
+    "client_address": "259 Rose Bridge Suite 032, Montgomeryburgh, ID 89673",
+    "seller_name": "Fitzgerald-Gomez",
+    "seller_address": "NS Smith, FPO AP 89915",
+    "invoice_number": "48292527",
+    "invoice_date": "07/30/2020",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Implemented full-range collaboration",
+      "quantity": "5",
+      "total_price": "$239.45"
+    },
+    {
+      "description": "Monitored impactful strategy",
+      "quantity": "4",
+      "total_price": "$139.68"
+    },
+    {
+      "description": "Team-oriented non-volatile website",
+      "quantity": "4",
+      "total_price": "$155.04"
+    }
+  ],
+  "subtotal": {
+    "tax": "$48.08",
+    "discount": "",
+    "total": "$582.25"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "National Credit Union",
+    "account_number": "GB48PIBU34413262268091",
+    "payment_method": "Bank Transfer"
+  }
+}

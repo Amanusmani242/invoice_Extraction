@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "Client 6 YONCV",
+    "client_address": "8082 Random Street\nCity 6, ST 53107",
+    "seller_name": "Seller 6 JNWR",
+    "seller_address": "3641 Seller Ave Apt. 448\nTown 6, ST 44654",
+    "invoice_number": "40694453",
+    "invoice_date": "07/02/2015",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "JBSJyoTYMIIvWSxyerwmOiNpOAUmHRQjqycnvadLsaYVjkplbHsSCfJiJxiE",
+      "quantity": "2,00",
+      "total_price": "88,61"
+    },
+    {
+      "description": "ZWV jEzaXNZFpZSTkRkmsXVnpbUUTPTVFCyiVTDqlcLLNPcrYn",
+      "quantity": "1,00",
+      "total_price": "23,08"
+    },
+    {
+      "description": "YSEUwaneTiEOpV SOSzRpLGtdRM DqbfSwwXHYGbcZ",
+      "quantity": "3,00",
+      "total_price": "63,41"
+    }
+  ],
+  "subtotal": {
+    "tax": "33,88",
+    "discount": "",
+    "total": "295,93"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB48PIBU33379843219028",
+    "payment_method": ""
+  }
+}

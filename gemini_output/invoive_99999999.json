@@ -1,0 +1,49 @@
+{
+  "invoice": {
+    "client_name": "Landry, Walker and Gillespie",
+    "client_address": "5558 Kennedy Cliffs Apt. 443, Lake Courtneyhaven, NC 67730",
+    "seller_name": "Albert Einstein",
+    "seller_address": "347 Moore Park Suite 153, Ericksonberg, MI 70576",
+    "invoice_number": "99999999",
+    "invoice_date": "04/28/2021",
+    "due_date": null
+  },
+  "items": [
+    {
+      "description": "Future-proofed 24/7 conglomeration",
+      "quantity": "1",
+      "total_price": "$31.42"
+    },
+    {
+      "description": "Self-enabling optimizing budgetary manag",
+      "quantity": "1",
+      "total_price": "$27.33"
+    },
+    {
+      "description": "Right-sized user-facing flexibility",
+      "quantity": "3",
+      "total_price": "$61.02"
+    },
+    {
+      "description": "Business-focused web-enabled function",
+      "quantity": "3",
+      "total_price": "$145.65"
+    },
+    {
+      "description": "Proactive 24/7 instruction set",
+      "quantity": "3",
+      "total_price": "$72.96"
+    }
+  ],
+  "subtotal": {
+    "tax": "$30.45",
+    "discount": null,
+    "total": "$368.83"
+  },
+  "payment_instructions": {
+    "due_date": null,
+    "bank_name": "National Credit Union",
+    "account_number": "US00TEST12345678900000",
+    "payment_method": "Bank Transfer"
+  }
+}

@@ -1,0 +1,45 @@
+{
+    "invoice": {
+      "client_name": "Wright, Richards and Soto",
+      "client_address": "9521 Watts Vista Apt. 958, Phillipshaven, KS 44447",
+      "seller_name": "Bowen, Nelson and Martin",
+      "seller_address": "08017 Pamela Circle, South Markview, LA 37186",
+      "invoice_number": "42439870",
+      "invoice_date": "11/16/2020",
+      "due_date": ""
+    },
+    "items": [
+      {
+        "description": "Triple-buffered fresh-thinking access",
+        "quantity": "3",
+        "total_price": "58.92"
+      },
+      {
+        "description": "Multi-layered stable service-desk",
+        "quantity": "4",
+        "total_price": "99.04"
+      },
+      {
+        "description": "Polarized radical alliance",
+        "quantity": "5",
+        "total_price": "177.45"
+      },
+      {
+        "description": "Fundamental human-resource circuit",
+        "quantity": "3",
+        "total_price": "41.82"
+      }
+    ],
+    "subtotal": {
+      "tax": "33.95",
+      "discount": "",
+      "total": "$411.18"
+    },
+    "payment_instructions": {
+      "due_date": "",
+      "bank_name": "National Credit Union",
+      "account_number": "GB48PIBU15356890292963",
+      "payment_method": "Bank Transfer"
+    }
+  }
+  

@@ -1,0 +1,44 @@
+{
+  "invoice": {
+    "client_name": "Client 4 DNYMQ",
+    "client_address": "7575 Random Street\nCity 4, ST 18583",
+    "seller_name": "Seller 4 JPSG",
+    "seller_address": "9100 Seller Ave Apt. 197\nTown 4, ST 35461",
+    "invoice_number": "43318233",
+    "invoice_date": "07/23/2015",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "aKodObdLjlmwfkfOqDoNQxzmTHWIrWNtmOHJdPxuwadprLr",
+      "quantity": "5,00",
+      "total_price": "105,58"
+    },
+    {
+      "description": "mDzRhPgfmdmOHDcOKPOvEIET",
+      "quantity": "3,00",
+      "total_price": "123,34"
+    },
+    {
+      "description": "zqufnBbfWSrPCJlFNTwKoNmurtPcFabACLTPo",
+      "quantity": "5,00",
+      "total_price": "90,61"
+    },
+    {
+      "description": "yXdMnTBGhcyXwEmJdvSjCQcXCcv",
+      "quantity": "2,00",
+      "total_price": "110,36"
+    }
+  ],
+  "subtotal": {
+    "tax": "24,19",
+    "discount": "",
+    "total": "322,95"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB48PIBU79326712924760",
+    "payment_method": ""
+  }
+}

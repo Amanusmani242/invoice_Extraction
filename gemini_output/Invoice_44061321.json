@@ -1,0 +1,49 @@
+{
+  "invoice": {
+    "client_name": "Johnson Ltd",
+    "client_address": "6148 White Mountain Apt. 522, Lake Williamfurt, RI 39269",
+    "seller_name": "Valencia-Gray",
+    "seller_address": "John Green Apt. 828, Cookville, WV 72219",
+    "invoice_number": "44061321",
+    "invoice_date": "04/16/2022",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Quality-focused explicit info-mediaries",
+      "quantity": "5",
+      "total_price": "$182.80"
+    },
+    {
+      "description": "Inverse national standardization",
+      "quantity": "5",
+      "total_price": "$195.75"
+    },
+    {
+      "description": "Polarized full-range frame",
+      "quantity": "5",
+      "total_price": "$189.80"
+    },
+    {
+      "description": "Enhanced even-keeled forecast",
+      "quantity": "4",
+      "total_price": "$115.80"
+    },
+    {
+      "description": "Self-enabling zero-defect attitude",
+      "quantity": "4",
+      "total_price": "$76.72"
+    }
+  ],
+  "subtotal": {
+    "tax": "$68.48",
+    "discount": "",
+    "total": "$829.35"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "National Credit Union",
+    "account_number": "GB48PIBU29465579426381",
+    "payment_method": "Bank Transfer"
+  }
+}

@@ -1,0 +1,39 @@
+{
+    "invoice": {
+      "client_name": "Client 7 FYQXJ",
+      "client_address": "3108 Random Street\nCity 7, ST 14498",
+      "seller_name": "Seller 7 WIBF",
+      "seller_address": "6076 Seller Ave Apt. 518\nTown 7, ST 33195",
+      "invoice_number": "40221593",
+      "invoice_date": "04/09/2015",
+      "due_date": ""
+    },
+    "items": [
+      {
+        "description": "ItICgHXsvHgONoYSDTClTXilNScPSM",
+        "quantity": "1,00",
+        "total_price": "83,83"
+      },
+      {
+        "description": "POQmXbRqrffvnRNjktvBZzyi",
+        "quantity": "2,00",
+        "total_price": "52,30"
+      },
+      {
+        "description": "XDPenOKSrrgVn Ssnffx Afli oRjOUmiXJpMVwZUTcVlValwL",
+        "quantity": "2,00",
+        "total_price": "68,38"
+      }
+    ],
+    "subtotal": {
+      "tax": "16,19",
+      "discount": "",
+      "total": "368,12"
+    },
+    "payment_instructions": {
+      "due_date": "",
+      "bank_name": "",
+      "account_number": "GB48PIBU92861940252107",
+      "payment_method": ""
+    }
+  }

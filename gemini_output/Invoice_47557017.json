@@ -1,0 +1,54 @@
+{
+  "invoice": {
+    "client_name": "Client 5 ESHEU",
+    "client_address": "8564 Random Street\nCity 5, ST 38424",
+    "seller_name": "Seller 5 DHHH",
+    "seller_address": "4195 Seller Ave Apt. 470\nTown 5, ST 74309",
+    "invoice_number": "47557017",
+    "invoice_date": "03/18/2015",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "PAViQqZsoEauA CiFmrYosOEJxxCluVtSBTXJDunpNnsUFJZXcbyWvCFyQu",
+      "quantity": "5,00",
+      "total_price": "115,32"
+    },
+    {
+      "description": "o TCVOSWvkvqyaIEnioVsVMRyLlqGWSjiruAGCbowxSJmLNPFfxthoh",
+      "quantity": "2,00",
+      "total_price": "100,12"
+    },
+    {
+      "description": "fSujdJbFSrBMnyBSgzRNX OimJTMESERlac",
+      "quantity": "4,00",
+      "total_price": "11,46"
+    },
+    {
+      "description": "vOfHiYvzOxFgtQL wjBqgwZvBAPIjvUrdXmCCcNiYlBehDhm",
+      "quantity": "4,00",
+      "total_price": "141,38"
+    },
+    {
+      "description": "cCibydWzJEKNIVsvLmmtKCDjfVe",
+      "quantity": "3,00",
+      "total_price": "26,49"
+    },
+    {
+      "description": "kpPJFPDZCvMZKoTAIcra QNqa FQ",
+      "quantity": "5,00",
+      "total_price": "88,43"
+    }
+  ],
+  "subtotal": {
+    "tax": "25,23",
+    "discount": "",
+    "total": "276,13"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB48PIBU59968164989769",
+    "payment_method": ""
+  }
+}

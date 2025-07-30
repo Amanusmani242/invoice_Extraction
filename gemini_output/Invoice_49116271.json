@@ -1,0 +1,44 @@
+{
+  "invoice": {
+    "client_name": "Client 3 OSCYT",
+    "client_address": "2706 Random Street\nCity 3, ST 95303",
+    "seller_name": "Seller 3 JRYA",
+    "seller_address": "4311 Seller Ave Apt. 415\nTown 3, ST 40447",
+    "invoice_number": "49116271",
+    "invoice_date": "11/06/2015",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "YepvBYFlsomxqQqQUiHNMiPQdnNqDSBAK",
+      "quantity": "1,00",
+      "total_price": "100,52"
+    },
+    {
+      "description": "ONBjFaVOPFXURFBfHgQmJyZXmuEvZVr",
+      "quantity": "2,00",
+      "total_price": "10,04"
+    },
+    {
+      "description": "qIJmVJhojTjJiceREEOCwGVLLJi",
+      "quantity": "1,00",
+      "total_price": "35,77"
+    },
+    {
+      "description": "iNfuz bVmGApvpdtiouAyOLtMiMWWd EHFolvg SMUHYaDq",
+      "quantity": "1,00",
+      "total_price": "51,02"
+    }
+  ],
+  "subtotal": {
+    "tax": "12,39",
+    "discount": "",
+    "total": "152,00"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB48PIBU39229031411120",
+    "payment_method": ""
+  }
+}

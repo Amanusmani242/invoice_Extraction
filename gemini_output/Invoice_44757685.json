@@ -1,0 +1,44 @@
+{
+  "invoice": {
+    "client_name": "Smith-Martinez",
+    "client_address": "912 Angela Meadows, North Robert, NM 42251",
+    "seller_name": "Mullins Ltd",
+    "seller_address": "3504 John Gardens Suite 313, Sawyerhaven, SD 743",
+    "invoice_number": "44757685",
+    "invoice_date": "05/03/2022",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Function-based next generation concept",
+      "quantity": "2",
+      "total_price": "$64.90"
+    },
+    {
+      "description": "Total multi-tasking frame",
+      "quantity": "3",
+      "total_price": "$90.24"
+    },
+    {
+      "description": "Optimized foreground archive",
+      "quantity": "1",
+      "total_price": "$32.51"
+    },
+    {
+      "description": "Implemented executive model",
+      "quantity": "5",
+      "total_price": "$168.55"
+    }
+  ],
+  "subtotal": {
+    "tax": "$32.06",
+    "discount": "",
+    "total": "$388.26"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "National Credit Union",
+    "account_number": "GB48PIBU29048441761323",
+    "payment_method": "Bank Transfer"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "invoice": {
+    "client_name": "Deleon, Davila and Allen",
+    "client_address": "355 King Lake Suite 071\nSouth Haleyshire, KY 55765",
+    "seller_name": "Johnson-Martin",
+    "seller_address": "3836 Moore Ports\nNorth Michael, MO 01844",
+    "invoice_number": "89969473",
+    "invoice_date": "10/29/2016",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Wild West Wine",
+      "quantity": "2,00",
+      "total_price": "59,40"
+    },
+    {
+      "description": "Press Wine 15L Fruit Cider Apple Crusher Juice Grape Stainless Maker Grapes New",
+      "quantity": "2,00",
+      "total_price": "613,80"
+    },
+    {
+      "description": "Wine Rack Holder Iron Art Hanging Racks Glass Cup Stemware Shelf Mounted 2 Color",
+      "quantity": "3,00",
+      "total_price": "61,87"
+    },
+    {
+      "description": "Rust Proof Three Rows Tool Wine Glass Holder Simple Iron Wire Home Hanging Rack",
+      "quantity": "2,00",
+      "total_price": "25,43"
+    },
+    {
+      "description": "VTG 1970s MCM Brown Steel Tube Wall or Desk Mounted 12-Wine Rack Bottle Holder",
+      "quantity": "1,00",
+      "total_price": "37,40"
+    }
+  ],
+  "subtotal": {
+    "tax": "72,54",
+    "discount": "",
+    "total": "797,91"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB71GBDG68039919194335",
+    "payment_method": ""
+  }
+}

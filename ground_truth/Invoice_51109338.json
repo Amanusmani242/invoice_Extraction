@@ -1,0 +1,59 @@
+{
+  "invoice": {
+    "client_name": "Becker Ltd",
+    "client_address": "8012 Stewart Summit Apt. 455\nNorth Douglas, AZ 95355",
+    "seller_name": "Andrews, Kirby and Valdez",
+    "seller_address": "58861 Gonzalez Prairie\nLake Daniellefurt, IN 57228",
+    "invoice_number": "51109338",
+    "invoice_date": "04/13/2013",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "CLEARANCE! Fast Dell Desktop Computer PC DUAL CORE WINDOWS 10 4/8/16GB RAM",
+      "quantity": "3,00",
+      "total_price": "689,70"
+    },
+    {
+      "description": "HP T520 Thin Client Computer AMD GX-212JC 1.2GHz 4GB RAM TESTED !! READ BELOW!!",
+      "quantity": "5,00",
+      "total_price": "207,63"
+    },
+    {
+      "description": "gaming pc desktop computer",
+      "quantity": "1,00",
+      "total_price": "440,00"
+    },
+    {
+      "description": "12-Core Gaming Computer Desktop PC Tower Affordable GAMING PC 8GB AMD Vega RGB",
+      "quantity": "3,00",
+      "total_price": "1 534,14"
+    },
+    {
+      "description": "Custom Build Dell Optiplex 9020 MT i5-4570 3.20GHz Desktop Computer PC",
+      "quantity": "5,00",
+      "total_price": "1 220,95"
+    },
+    {
+      "description": "Dell Optiplex 990 MT Computer PC Quad Core i7 3.4GHz 16GB 2TB HD Windows 10 Pro",
+      "quantity": "4,00",
+      "total_price": "1 187,78"
+    },
+    {
+      "description": "Dell Core 2 Duo Desktop Computer | Windows XP Pro | 4GB | 500GB",
+      "quantity": "5,00",
+      "total_price": "924,00"
+    }
+  ],
+  "subtotal": {
+    "tax": "564,02",
+    "discount": "",
+    "total": "6 204,19"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB75MCRL06841367619257",
+    "payment_method": ""
+  }
+}

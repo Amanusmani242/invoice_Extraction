@@ -1,0 +1,39 @@
+{
+  "invoice": {
+    "client_name": "Client 1 HYVME",
+    "client_address": "3903 Random Street\nCity 1, ST 40980",
+    "seller_name": "Seller 1 RVGK",
+    "seller_address": "5277 Seller Ave Apt. 351\nTown 1, ST 42469",
+    "invoice_number": "48067516",
+    "invoice_date": "03/05/2015",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "eelfGyBovTMpYQLZZOsOjkTwXJAApoObKhGDXLCguGSurZv",
+      "quantity": "4,00",
+      "total_price": "27,49"
+    },
+    {
+      "description": "ryq tXXzUcwtYQeQhOMZ",
+      "quantity": "2,00",
+      "total_price": "26,20"
+    },
+    {
+      "description": "GOBaykrjPdutVrBVpqMAATZBrSZXpiOjvg",
+      "quantity": "2,00",
+      "total_price": "116,03"
+    }
+  ],
+  "subtotal": {
+    "tax": "21,63",
+    "discount": "",
+    "total": "237,33"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "GB48PIBU58232545224457",
+    "payment_method": ""
+  }
+}

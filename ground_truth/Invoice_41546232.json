@@ -1,0 +1,54 @@
+{
+    "invoice": {
+      "client_name": "Client 2 QVEXF",
+      "client_address": "4147 Random Street\nCity 2, ST 30108",
+      "seller_name": "Seller 2 CILS",
+      "seller_address": "6920 Seller Ave Apt. 378\nTown 2, ST 80436",
+      "invoice_number": "41546232",
+      "invoice_date": "09/11/2015",
+      "due_date": ""
+    },
+    "items": [
+      {
+        "description": "PQOmJLDRuyUidOIjFkoSDLPUNoBJcnEMxNXIAYqCVNBHssJblOgM jlvdO",
+        "quantity": "3,00",
+        "total_price": "91,39"
+      },
+      {
+        "description": "HHKQxkwxjTIEDYDHankCI hqKnpWhABXTXhYebTwhvQoYdBeiX",
+        "quantity": "4,00",
+        "total_price": "104,51"
+      },
+      {
+        "description": "iSVVwJWjSQSHePZXYkOFYdOZurwYbACRXsRyrxVbCwYQilLUuvcQgYINp",
+        "quantity": "1,00",
+        "total_price": "121,40"
+      },
+      {
+        "description": "oVUaGbonQiwPejSFAhsezVUkVNaQGLENjaoQCdMxUqpSoDoOeCziOEAqa",
+        "quantity": "3,00",
+        "total_price": "95,96"
+      },
+      {
+        "description": "iGVQmEheUaBXHCVpbFoECF",
+        "quantity": "2,00",
+        "total_price": "41,06"
+      },
+      {
+        "description": "cpksEsDRxJxCJaWfcdUpgnIMtkcVyAERJYhaxEttwukOnOMMwlGsrV",
+        "quantity": "4,00",
+        "total_price": "22,64"
+      }
+    ],
+    "subtotal": {
+      "tax": "22,70",
+      "discount": "",
+      "total": "375,80"
+    },
+    "payment_instructions": {
+      "due_date": "",
+      "bank_name": "",
+      "account_number": "GB48PIBU11317849403228",
+      "payment_method": ""
+    }
+  }
